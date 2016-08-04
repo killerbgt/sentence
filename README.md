@@ -1,5 +1,7 @@
 # Sentence
 
+[![Build Status](https://travis-ci.org/killerbgt/sentence.svg?branch=master)](https://travis-ci.org/killerbgt/sentence)
+
 A Ruby gem providing various utility methods for use when working with sentences. NOTE: This is only a coding example and not intended for actual use.
 
 ## Installation
